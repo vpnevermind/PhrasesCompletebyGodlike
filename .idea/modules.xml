@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Phrases.iml" filepath="$PROJECT_DIR$/.idea/Phrases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Phrases/task/Phrases.Phrases-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Phrases/task/Phrases.Phrases-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Phrases/task/Phrases.Phrases-task.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Phrases/task/Phrases.Phrases-task.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Phrases/task/Phrases.Phrases-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Phrases/task/Phrases.Phrases-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Phrases/task/Phrases.Phrases-task.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Phrases/task/Phrases.Phrases-task.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Enum/Currencies/Phrases.Topics-Enum-Currencies.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Enum/Currencies/Phrases.Topics-Enum-Currencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Enum/Danger level/Phrases.Topics-Enum-Danger_level.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Enum/Danger level/Phrases.Topics-Enum-Danger_level.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Enum/Days of the week/Phrases.Topics-Enum-Days_of_the_week.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Enum/Days of the week/Phrases.Topics-Enum-Days_of_the_week.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Enum/Rainbow colors/Phrases.Topics-Enum-Rainbow_colors.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Enum/Rainbow colors/Phrases.Topics-Enum-Rainbow_colors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Enum/The rainbow order/Phrases.Topics-Enum-The_rainbow_order.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Enum/The rainbow order/Phrases.Topics-Enum-The_rainbow_order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Enum/Theory/Phrases.Topics-Enum-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Enum/Theory/Phrases.Topics-Enum-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Enum/entries property/Phrases.Topics-Enum-entries_property.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Enum/entries property/Phrases.Topics-Enum-entries_property.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Phrases.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Phrases.util.iml" />
+    </modules>
+  </component>
+</project>

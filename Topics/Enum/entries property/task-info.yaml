@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Red
+  - text: "NULL"
+  - text: RED
+  - text: IllegalArgumentException
+files:
+  - name: src/main/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6248#comment
+status: Solved
+record: -1
+local_check: false
